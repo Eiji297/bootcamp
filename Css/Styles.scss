@@ -1,0 +1,28 @@
+$btn-font-family: "Comic Sans MS";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+$Themecolor1: rgb(255, 0, 0);
+$Themecolor2: blue;
+$Themecolor3: pink;
+
+$widthFood: 400px;
+h1 {
+  color: $Themecolor1;
+}
+p {
+  color: $Themecolor1;
+}
+.marin {
+  width: $widthFood;
+}
+div {
+  .subheading {
+    color: $Themecolor3;
+  }
+  h1 {
+    color: $Themecolor2;
+  }
+}
+button {
+  font-family: $btn-font-family;
+}

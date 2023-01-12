@@ -1,0 +1,15 @@
+The current date is: 12/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 13/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 14/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) The current date is: 18/12/2022 
+Enter the new date: (dd-mm-yy) 
